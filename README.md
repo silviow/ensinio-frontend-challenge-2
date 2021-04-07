@@ -35,6 +35,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 ## :dart: Requisitos do projeto
 
+- A interface deve ser 100% responsiva;
 - Fazer uso de uma ou mais ferramentas "linter";
 - Escrever ao menos 3 testes unitários (ferramentas a seu critério);
 - Demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
