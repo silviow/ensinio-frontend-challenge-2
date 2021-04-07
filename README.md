@@ -36,10 +36,12 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 ## :dart: Requisitos do projeto
 
 - Fazer uso de uma ou mais ferramentas "linter";
-- Escrever ao menos 5 testes unitários (ferramentas a seu critério);
+- Escrever ao menos 3 testes unitários (ferramentas a seu critério);
 - Demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
+- Requisitar dados (do arquivo "db.json", presente no repositório) de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
 - Fazer uso de uma abordagem ou ferramenta para gerenciamento de estado compartilhado entre componentes;
 - Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma, por parte do usuário, deve ser persistida);
+- Fornecer uma documentação, incluindo instruções para a execução da sua aplicação;
 
 ## :clap: Diferenciais
 
