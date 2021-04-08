@@ -58,7 +58,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - A **fidelidade** da interface codificada;
 - A **estrutura** do seu projeto: esperamos ver componentização coesa, reuso, encapsulamento, separação de responsabilidades, etc;
 - A **responsividade** da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
-- Seu **empenho**: não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:!
+- Seu **empenho**: não tem problema se algo não sair como desejado, mas tente! :blush:
 
 ## :email: Sobre a entrega
 
