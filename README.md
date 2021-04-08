@@ -38,6 +38,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - A interface deve ser 100% responsiva;
 - Fazer uso de uma ou mais ferramentas "linter";
 - Escrever ao menos 3 testes unitários (ferramentas a seu critério);
+- Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
 - Demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
 - Requisitar dados (do arquivo "db.json", presente no repositório) de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
 - Fazer uso de uma abordagem ou ferramenta para gerenciamento de estado compartilhado entre componentes;
@@ -47,7 +48,6 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 ## :clap: Diferenciais
 
 - Animações;
-- Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
 - Alta cobertura de testes :)
 
 ## :page_facing_up: Critérios de avaliação
