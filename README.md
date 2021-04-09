@@ -1,6 +1,6 @@
-## :rocket: Teste técnico para Desenvolvedor Front-end Pleno na Ensinio
+## :rocket: Teste técnico para Desenvolvedor(a) Front-end Pleno na Ensinio
 
-O presente teste foi cuidadosamente planejado para validar os conhecimentos necessários para a posição de Desenvolvedor Front-end Pleno na Ensinio.
+O presente teste foi cuidadosamente planejado para validar os conhecimentos necessários para a posição de Desenvolvedor(a) Front-end Pleno na Ensinio.
 
 Serão avaliados aspectos relacionados aos conhecimentos em boas práticas de código, testes, princípios arquiteturais de software e documentação, além dos conhecimentos nas tecnologias HTML, CSS, TypeScript, React.js e no ecossistema que as cerca.
 
