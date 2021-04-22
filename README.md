@@ -44,6 +44,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
 - Fazer uso de uma abordagem ou ferramenta para gerenciamento de estado compartilhado entre componentes;
 - Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma, por parte do usuário, deve ser persistida);
+- Hospedar a aplicação, permitindo o acesso através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins);
 - Fornecer uma documentação, incluindo instruções para a execução da sua aplicação;
 
 ## :clap: Diferenciais
@@ -62,7 +63,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com).
+Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
 
